@@ -35,11 +35,11 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 ### 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyQt](https://img.shields.io/badge/PyQt-41cd52?style=for-the-badge&logo=qt&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-5578AC?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=proxmox&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![PyQt](https://img.shields.io/badge/PyQt-41cd52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-5578AC?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=proxmox&logoColor=white)](https://nmap.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 
 ---
 
