@@ -8,13 +8,6 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/KushwinderDadwal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F76D6D&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Cybersecurity+Researcher+%7C+Developer+%7C+Python+Enthusiast;I+love+building+ethical+hacking+tools.;I+explore+AI+%26+Security+crossovers.💡" alt="Typing SVG" />
-  </a>
-</p>
-
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KushwinderDadwal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
