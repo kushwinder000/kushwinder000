@@ -47,10 +47,10 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 <p align="center">
   <a href="https://github.com/Kushwinder000/VulnScan-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushwinder000&repo=VulnScan&theme=radical" alt="VulnScan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushwinder000&repo=VulnScan-Python&theme=radical" alt="VulnScan" />
   </a>
   <a href="https://github.com/Kushwinder000/Educational-Keylogger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushwinder000&repo=Keylogger&theme=radical" alt="Keylogger" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushwinder000&repo=EducationalKeylogger&theme=radical" alt="Keylogger" />
   </a>
 </p>
 
