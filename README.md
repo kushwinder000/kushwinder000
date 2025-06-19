@@ -45,8 +45,8 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 ### 🏆 Featured Projects
 
-[![VulnScan](https://img.shields.io/badge/VulnScan-Security-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/Kushwinder000/VulnScan)
-[![Educational Keylogger](https://img.shields.io/badge/Keylogger-Ethical-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kushwinder000/Keylogger)
+[![VulnScan](https://img.shields.io/badge/VulnScan-Security-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/Kushwinder000/VulnScan-Python)
+[![Educational Keylogger](https://img.shields.io/badge/Keylogger-Ethical-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kushwinder000/Educational-Keylogger)
 
 ---
 
