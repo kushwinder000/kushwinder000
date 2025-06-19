@@ -63,12 +63,6 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 ---
 
-### 🌀 Animated Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
