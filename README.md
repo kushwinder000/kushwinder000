@@ -28,7 +28,7 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 ### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KushwinderDadwal&show_icons=true&theme=radical&hide_border=true" alt="Kushwinder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushwinderDadwal&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushwinder000&show_icons=true&theme=radical&hide_border=true" alt="Kushwinder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushwinder000&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
