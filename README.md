@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋 World 🌍</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KushwinderDadwal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 > ⚠️ **Info**: This Developer 🐢 is currently in stealth mode (hibernation) for an indefinite time ⚠️
 
 ---
 
-### 👋 Hi, I'm [Your Name]!
+### 👋 Hi, I'm Kushwinder Dadwal!
 
 I'm a passionate Computer Science student and cybersecurity enthusiast currently pursuing my B.Tech. I love exploring the intersections of ethical hacking, machine learning, and software development.
 
@@ -28,18 +28,25 @@ With a strong foundation in Python and experience building tools like keyloggers
 
 ### 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KushwinderDadwal&show_icons=true&theme=radical&hide_border=true" alt="Kushwinder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushwinderDadwal&layout=compact&theme=radical&hide_border=true" alt="Top languages" /> |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
-### 🔧 Tools & Technologies
+### 🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt](https://img.shields.io/badge/PyQt-41cd52?style=for-the-badge&logo=qt&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-5578AC?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 🏆 Featured Projects
+
+[![VulnScan](https://img.shields.io/badge/VulnScan-Security-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/KushwinderDadwal/VulnScan)
+[![Educational Keylogger](https://img.shields.io/badge/Keylogger-Ethical-red?style=for-the-badge&logo=python&logoColor=white)](https://github.com/KushwinderDadwal/Keylogger)
 
 ---
 
